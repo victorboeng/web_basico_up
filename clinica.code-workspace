@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../LP_Fisio/lp_fisiohtml/components"
+		},
+		{
+			"path": "../LP_Fisio/lp_fisiohtml/img"
+		}
+	],
+	"settings": {}
+}
