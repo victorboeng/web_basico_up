@@ -1,2 +1,2 @@
-# web_basico_up
-Repositório projetos web básico faculdade
+Pagina desenvolvida para a materia de Web basico.
+Pagina destinada a uma clinica.
